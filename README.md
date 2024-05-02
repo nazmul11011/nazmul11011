@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Security & Optimization
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me >> Email
+- 📫 How to reach me >> 2022831042@student.sust.edu
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I even don't know 
 
