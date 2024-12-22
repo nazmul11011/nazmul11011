@@ -8,11 +8,13 @@
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ## 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=nazmul11011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nazmul11011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul11011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmul11011&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul11011&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul11011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nazmul11011&theme=radical&no-frame=false&no-bg=true&margin-w=4)
