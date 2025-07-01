@@ -11,17 +11,19 @@
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=nazmul11011&theme=radical&show_icons=true&hide_border=false&count_private=true"  width="45%" alt="stats graph"  />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul11011&theme=radical&hide_border=false"  width="47%" alt="streaks"  />
+</p></br>
 <p align='center'>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul11011&theme=radical&hide_border=false"  width="45%" alt="streaks"  />
-</p>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul11011&theme=radical&show_icons=true&hide_border=false&layout=compact"  width="45%" alt="toplang"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul11011&theme=radical&show_icons=true&hide_border=false&layout=compact"  width="45%" height="45% alt="toplang"  />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align='center'><img src="https://github-profile-trophy.vercel.app/?username=nazmul11011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"  /></p>
+
+<p align='center'>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul11011&theme=radical"  width="60%" alt="toplang"  />
+</p>
 
 ### ✍️ Random Dev Quote
 <p align='center'><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"  /></p>
