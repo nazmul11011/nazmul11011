@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on flutter Project<br><br>🌱 I’m currently learning Dart<br><br>💬 Ask me about C++<br><br>📫 How to reach me 2022831042@student.sust.edu
+🔭 I’m currently working on portfolio Project<br><br>🌱 I’m currently learning JS<br><br>💬 Ask me about C++, Java<br><br>📫 How to reach me 2022831042@student.sust.edu
 
 
 ## 🌐 Socials:
