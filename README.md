@@ -1,23 +1,23 @@
-## 💫 About Me:
-🔭 I’m currently working on portfolio Project<br><br>🌱 I’m currently learning JS<br><br>💬 Ask me about C++, Java<br><br>📫 How to reach me 2022831042@student.sust.edu
+## About Me:
+Software Engineering undergraduate at Shahjalal University of Science and Technology (SUST), Bangladesh.<br><br>I am interested in software engineering, backend development, and building scalable web applications. My work primarily involves JavaScript/TypeScript ecosystems, with experience developing applications using Next.js, Node.js, Express.js, MongoDB, and MySQL.
 
 
-## 🌐 Socials:
+## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nazmul_11011) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmul.alam.101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmul-alam-tuhin) 
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-## 📊 GitHub Stats:
+## Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black)
+## GitHub Stats:
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=nazmul11011&theme=radical&show_icons=true&hide_border=false&count_private=true"  width="45%" alt="stats graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmul11011&theme=radical&hide_border=false"  width="47%" alt="streaks"  />
 </p></br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul11011&theme=radical&show_icons=true&hide_border=false&layout=compact"  width="45%" height="45% alt="toplang"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul11011&theme=radical&show_icons=true&hide_border=false&layout=compact"  width="40%" height="40% alt="toplang"  />
 </p>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align='center'><img src="https://github-profile-trophy.vercel.app/?username=nazmul11011&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"  /></p>
 
@@ -25,7 +25,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul11011&theme=radical"  width="60%" alt="toplang"  />
 </p>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 <p align='center'><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"  /></p>
 
 ---
